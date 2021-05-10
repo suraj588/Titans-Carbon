@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/narendrapalacharla/carbonProject.git">
+  <a href="https://github.com/suraj588/Titans-Carbon.git">
     CARBON TEAM
   </a>
 
@@ -12,14 +12,14 @@
   <p align="center">
     we are assigned with Bitrix24.net clone !
     <br />
-    <a href="https://github.com/narendrapalacharla/carbonProject.git"><strong>Explore our work here»</strong></a>
+    <a href="https://github.com/suraj588/Titans-Carbon.git"><strong>Explore our work here»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/narendrapalacharla/carbonProject/issues">View issues</a>
+    <a href="https://github.com/suraj588/Titans-Carbon/issues">View issues</a>
     ·
-    <a href="https://github.com/narendrapalacharla/carbonProject/commits/master">Total commits</a>
+    <a href="https://github.com/suraj588/Titans-Carbon/commits/master">Total commits</a>
     ·
-    <a href="https://github.com/narendrapalacharla/carbonProject/pulls">pull requests</a>
+    <a href="https://github.com/suraj588/Titans-Carbon/pulls">pull requests</a>
   </p>
 </p>
 
@@ -111,9 +111,6 @@ A side panel feature is added on the intro feed page.
      - **LinkedIn** : Suraj Singh
 
 <!-- CONTACT -->
-## Contact
-
-Your Name - [my twitter](https://twitter.com/narendrapalach1)
 
 Project Link: [project repo](https://github.com/narendrapalacharla/carbonProject.git)
 
